@@ -1,0 +1,2 @@
+SECRET_KEY=a74sd8f7a9s8df7a9sdf7a9sdf7a9sdf
+DATABASE_URL=postgresql://postgres:ismail@localhost:5432/Compliancehub1

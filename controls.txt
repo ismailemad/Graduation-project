@@ -1,0 +1,116 @@
+[{
+            "control_id": "1.1",
+            "title": "Establish and implement firewall and router configuration standards",
+            "description": "Establish, implement, and maintain firewall and router configuration standards that include formal processes for approving and testing all network connections and changes to firewall and router configurations."
+        },
+        {
+            "control_id": "1.2",
+            "title": "Build firewall and router configurations that restrict connections",
+            "description": "Build firewall and router configurations that restrict connections between untrusted networks and any system components in the cardholder data environment."
+        },
+        {
+            "control_id": "2.1",
+            "title": "Always change vendor defaults",
+            "description": "Always change vendor-supplied defaults and remove or disable unnecessary default accounts before installing a system on the network."
+        },
+        {
+            "control_id": "3.1",
+            "title": "Keep cardholder data storage to a minimum",
+            "description": "Keep cardholder data storage to a minimum by implementing data retention and disposal policies, procedures and processes."
+        },
+        {
+            "control_id": "4.1",
+            "title": "Use strong cryptography and security protocols",
+            "description": "Use strong cryptography and security protocols to safeguard sensitive cardholder data during transmission over open, public networks."
+        },
+        {
+            "control_id": "5.1",
+            "title": "Deploy anti-virus software",
+            "description": "Deploy anti-virus software on all systems commonly affected by malicious software."
+        },
+        {
+            "control_id": "6.1",
+            "title": "Establish a process to identify security vulnerabilities",
+            "description": "Establish a process to identify security vulnerabilities, using reputable outside sources for security vulnerability information, and assign a risk ranking to newly discovered security vulnerabilities."
+        },
+        {
+            "control_id": "7.1",
+            "title": "Limit access to system components",
+            "description": "Limit access to system components and cardholder data to only those individuals whose job requires such access."
+        },
+        {
+            "control_id": "8.1",
+            "title": "Define and implement policies and procedures",
+            "description": "Define and implement policies and procedures to ensure proper user identification management for non-consumer users and administrators on all system components."
+        },
+        {
+            "control_id": "9.1",
+            "title": "Use appropriate facility entry controls",
+            "description": "Use appropriate facility entry controls to limit and monitor physical access to systems in the cardholder data environment."
+        },
+   	{
+        "control_id": "10.1",
+        "title": "Track and monitor access",
+        "description": "Implement audit trails to link user actions to individuals."
+    },
+    {
+        "control_id": "11.1",
+        "title": "Test security systems",
+        "description": "Regularly test security systems and processes to ensure effectiveness."
+    },
+    {
+        "control_id": "12.1",
+        "title": "Maintain security policies",
+        "description": "Establish and update policies to address emerging threats and compliance requirements."
+    },
+    {
+            "control_id": "A.5.1",
+            "title": "Information security policies",
+            "description": "To provide management direction and support for information security in accordance with business requirements and relevant laws and regulations."
+        },
+        {
+            "control_id": "A.5.2",
+            "title": "Information security roles and responsibilities",
+            "description": "To establish a framework of roles and responsibilities for information security implementation."
+        },
+        {
+            "control_id": "A.6.1",
+            "title": "Access control policy",
+            "description": "To limit access to information and information processing facilities."
+        },
+        {
+            "control_id": "A.6.2",
+            "title": "User access management",
+            "description": "To ensure authorized user access and to prevent unauthorized access to systems and services."
+        },
+        {
+            "control_id": "A.8.1",
+            "title": "Asset management",
+            "description": "Responsibility for assets: To identify organizational assets and define appropriate protection responsibilities."
+        },
+        {
+            "control_id": "A.8.2",
+            "title": "Information classification",
+            "description": "To ensure that information receives an appropriate level of protection in accordance with its importance to the organization."
+        },
+        {
+            "control_id": "A.9.1",
+            "title": "Business requirements of access control",
+            "description": "To limit access to information and information processing facilities."
+        },
+        {
+            "control_id": "A.9.4",
+            "title": "System and application access control",
+            "description": "To prevent unauthorized access to systems and applications."
+        },
+        {
+            "control_id": "A.12.1",
+            "title": "Operational procedures and responsibilities",
+            "description": "To ensure correct and secure operations of information processing facilities."
+        },
+        {
+            "control_id": "A.12.2",
+            "title": "Protection from malware",
+            "description": "To ensure that information and information processing facilities are protected against malware."
+        }
+	    ]
